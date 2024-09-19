@@ -14,6 +14,4 @@ test
 test 
 test
 test
-test
-test
-test
+te
