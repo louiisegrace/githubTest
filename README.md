@@ -44,11 +44,3 @@ test
 test
 test
 test
-test
-test
-test
-test
-test
-dftest
-asdasds
-weewe
